@@ -1,4 +1,4 @@
-FROM wurstmeister/storm:0.9.4
+FROM wanglfcn/storm:latest
 MAINTAINER Wurstmeister
 
 EXPOSE 6700
